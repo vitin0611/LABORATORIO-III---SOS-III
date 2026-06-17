@@ -87,7 +87,7 @@ Creación de un script que:
 
 ## Práctica 3 - Redes y SSH
 
-### 📺 [Actividades : Backup Automático]([https://youtu.be/2VVSmlDLz50](https://youtu.be/hFjv9sXQNzc)
+### 📺 [Actividades :]([https://youtu.be/2VVSmlDLz50](https://youtu.be/hFjv9sXQNzc)
 
 * Configuración de la VM en modo Bridge.
 * Verificación de conectividad mediante ping.
