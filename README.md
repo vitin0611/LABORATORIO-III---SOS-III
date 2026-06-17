@@ -36,6 +36,7 @@ Las actividades fueron desarrolladas en un entorno Linux ejecutado sobre una má
 
 ## Práctica 1 - Configuración de GRUB y Recuperación de Root
 
+
 ### Actividades
 
 * Modificación del tiempo de espera del menú GRUB a 20 segundos.
@@ -54,7 +55,7 @@ Las actividades fueron desarrolladas en un entorno Linux ejecutado sobre una má
 
 ## Práctica 2 - Bash Scripting
 
-### Actividad 1: Backup Automático
+### 📺 [Actividades : Backup Automático](https://youtu.be/2VVSmlDLz50)
 
 Creación de un script que:
 
@@ -74,7 +75,7 @@ Ejemplo:
 backup_17-06-2026:20:30.tar.gz
 ```
 
-### Actividad 2: Exportar Configuración de Red
+###
 
 Creación de un script que:
 
@@ -86,7 +87,7 @@ Creación de un script que:
 
 ## Práctica 3 - Redes y SSH
 
-### Actividades
+### 📺 [Actividades : Backup Automático]([https://youtu.be/2VVSmlDLz50](https://youtu.be/hFjv9sXQNzc)
 
 * Configuración de la VM en modo Bridge.
 * Verificación de conectividad mediante ping.
