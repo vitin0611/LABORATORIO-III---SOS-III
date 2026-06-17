@@ -1,7 +1,3 @@
-Puedes usar esta descripción para tu repositorio de GitHub:
-
-# Descripción del repositorio
-
 **Linux System Administration Labs** 🚀
 
 Repositorio que documenta prácticas de administración de sistemas Linux realizadas en entornos virtualizados. Incluye configuración de GRUB, recuperación de contraseñas, automatización mediante Bash Scripting, respaldos con TAR, configuración de redes, acceso remoto mediante SSH y autenticación basada en claves públicas y privadas.
