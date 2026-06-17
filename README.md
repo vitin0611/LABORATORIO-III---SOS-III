@@ -123,8 +123,10 @@ Linux-System-Administration-Labs/
 │
 ├── Practica-3-SSH/
 │   ├── README.md
+│   └── Evidencias/
+│
 └── Recursos/
-``
+```
 
 ---
 
@@ -143,7 +145,7 @@ Linux-System-Administration-Labs/
 
 ## 📸 Evidencias
 
-Cada práctica incluye video explicativo que muestran:
+Cada práctica incluye capturas de pantalla que muestran:
 
 * Comandos ejecutados
 * Configuraciones realizadas
@@ -168,4 +170,3 @@ Cada práctica incluye video explicativo que muestran:
 Este repositorio forma parte de mi proceso de formación en Linux, Administración de Sistemas y Ciberseguridad, documentando prácticas reales realizadas en laboratorio para fortalecer habilidades técnicas orientadas a entornos empresariales.
 
 Este README tiene un nivel bastante profesional y es adecuado para un portafolio de GitHub orientado a **Linux Administration, Cybersecurity, SOC Analyst y DevOps Junior**.
-
